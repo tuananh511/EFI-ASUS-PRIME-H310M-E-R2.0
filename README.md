@@ -1,5 +1,5 @@
 # EFI-ASUS-PRIME-H310M-E-R2.0
-EFI build for Hackintosh
+EFI build for Hackintosh (2 files - Orginal & Keymapping for my PC)
 
 - ASUS PRIME H310M-E R2.0
 - i3-9100F
